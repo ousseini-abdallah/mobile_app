@@ -15,9 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Page d'accueil](assets/images/kasuwa1.png)
+![Page de connexion](assets/images/kasuwa1.png)
 ![Page d'accueil](assets/images/kasuwa2.png)
-![Page d'accueil](assets/images/kasuwa3.png)
-![Page d'accueil](assets/images/kasuwa4.png)
-![Page d'accueil](assets/images/kasuwa5.png)
-![Page d'accueil](assets/images/kasuwa6.png)
+![](assets/images/kasuwa3.png)
+![](assets/images/kasuwa5.png)
+![](assets/images/kasuwa6.png)
